@@ -1,0 +1,7 @@
+Seguridad:
+-Robo de informacion
+-Ataques de malware
+-Contraseñas debiles-
+-Phishing y suplantacion de identidad
+
+Base de datos:
