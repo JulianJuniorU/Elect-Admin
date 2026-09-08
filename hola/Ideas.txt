@@ -5,3 +5,12 @@ Seguridad:
 -Phishing y suplantacion de identidad
 
 Base de datos:
+-Perdida de informacion
+-Duplicidad de datos
+-Bases de datos lentas
+
+Redes
+-Conexiones lentas
+-Congestion de la red
+-Caidas frecuentes de internet
+-Problemas de cobertura
