@@ -14,3 +14,8 @@ Redes
 -Congestion de la red
 -Caidas frecuentes de internet
 -Problemas de cobertura
+
+IA
+-Uso incorrecto o poco etico de la IA
+-Dependencia de la IA
+-Bajo pensamienton critico personal
