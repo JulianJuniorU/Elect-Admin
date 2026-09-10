@@ -19,3 +19,7 @@ IA
 -Uso incorrecto o poco etico de la IA
 -Dependencia de la IA
 -Bajo pensamienton critico personal
+
+Sostenibilidad
+-Uso ineficiente de recursos computacionales
+-Falta de reciclaje tecnologico
